@@ -1,0 +1,12 @@
+{
+  "localhost-mysql": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "homestead",
+    "password": "root",
+    "name": "localhost-mysql",
+    "user": "root",
+    "connector": "mysql"
+  }
+}
